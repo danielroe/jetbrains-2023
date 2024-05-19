@@ -1,3 +1,9 @@
+
+# 🚧 Repository update 🚧
+
+This repository has been archived. Please feel free to [contact me directly](https://github.com/danielroe) if you have any questions.
+
+<hr>
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
